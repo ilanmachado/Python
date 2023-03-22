@@ -1,2 +1,2 @@
 # Python
-First steps with the Python language
+:computer: :snake: First steps with the Python language.
