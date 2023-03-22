@@ -1,0 +1,11 @@
+Estudando Python no curso e aprendendo muito!
+Outro texto
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec facilisis sagittis pellentesque.
+Praesent id justo vehicula, scelerisque augue in, convallis elit. Mauris volutpat felis nibh.
+Donec imperdiet libero sit amet dapibus pharetra. Vestibulum semper venenatis sem a consectetur.
+in blandit magna. Maecenas tempor neque consequat condimentum sagittis.
+Donec ornare faucibus mauris, sed volutpat felis sagittis et. Nunc posuere imperdiet tellus,
+eu fringilla tellus convallis vel. Morbi vitae semper purus. Nunc viverra, lorem a lobortis
+finibus, tortor dolor vehicula augue, quis feugiat ante sapien sit amet nisl.
+
