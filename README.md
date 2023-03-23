@@ -58,7 +58,9 @@ my_function("John")
 ### `Conclusion`
 
 Thank you for checking out my Python Language repository!
+
 I hope these examples give you an idea of my progress in learning Python.
+
 Feel free to reach out to me if you have any questions or feedback.
 
 Enjoy!
