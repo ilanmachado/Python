@@ -1,8 +1,12 @@
+![Python Symbol](https://github.com/ilanmachado/Python/blob/main/Python_img.gif)
+
 # Python Language
 
 🐍 Welcome to my Python Language repository! 🐍
 
-This repository contains my first steps in learning Python. I have included some example files to demonstrate my progress. 
+This repository contains my first steps in learning Python. 
+
+I have included some example files to demonstrate my progress. 
 
 ## Examples
 
@@ -21,8 +25,10 @@ This file demonstrates how to create and assign values to variables in Python.
 ```
 x = 5
 y = "John"
+z = 3.14
 print(x)
 print(y)
+print(z)
 ```
 
 
@@ -51,4 +57,8 @@ my_function("John")
 
 ### `Conclusion`
 
-Thank you for checking out my Python Language repository! I hope these examples give you an idea of my progress in learning Python. Feel free to reach out to me if you have any questions or feedback.
+Thank you for checking out my Python Language repository!
+I hope these examples give you an idea of my progress in learning Python.
+Feel free to reach out to me if you have any questions or feedback.
+
+Enjoy!
